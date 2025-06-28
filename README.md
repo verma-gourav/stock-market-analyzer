@@ -57,33 +57,33 @@ This project helps investors, analysts, and regulators:
 
 ### ✅ Visual Reports:
 
-### Top 10 Clients by Quantity Bought
+- ## Top 10 Clients by Quantity Bought
 
-![](plots\top_buyers.png)
+  ![](plots/top_buyers.png)
 
-### Most Traded Stocks
+- ## Most Traded Stocks
 
-![](plots\top_traded_stocks.png)
+  ![](plots/top_traded_stocks.png)
 
-### Deal Type Split (BUY vs SELL)
+- ## Deal Type Split (BUY vs SELL)
 
-![](plots\buy_sell_pie.png)
+  ![](plots/buy_sell_pie.png)
 
-### Daily Volume Trend
+- ## Daily Volume Trend
 
-![](plots\daily_volume_trend.png)
+  ![](plots/daily_volume_trend.png)
 
-### Clients Buying & Selling Same Stock (Heatmap)
+- ## Clients Buying & Selling Same Stock (Heatmap)
 
-![](plots\clients_buysell_heatmap.png)
+  ![](plots/clients_buysell_heatmap.png)
 
-### Anomaly Heatmap
+- ## Anomaly Heatmap
 
-![](plots\anomaly_heatmap.png)
+  ![](plots/anomaly_heatmap.png)
 
-### Top Anomalous Trades by Value
+- ## Top Anomalous Trades by Value
 
-![](plots\top_anomalous_buys.png)
+  ![](plots/top_anomalous_buys.png)
 
 ### 📊 Price-Based Anomaly Detection
 
